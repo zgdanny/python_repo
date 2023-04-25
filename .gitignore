@@ -208,7 +208,7 @@ playground.xcworkspace
 # (path is relative to root of package)
 # Sources/*/Generated/
 
-.vscode/
+
 
 
 # macOS
@@ -235,5 +235,5 @@ Temporary Items
 .apdisk
 
 tmp/
-
+.vscode/  
 
