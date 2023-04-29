@@ -9,7 +9,7 @@ import pygame
 from source import constants as C
 
 from source import setup, tools
-from source.statues import main_menu, level, load_screen
+from source.states import main_menu, level, load_screen
 
 
 def main():
